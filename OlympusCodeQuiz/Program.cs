@@ -3,7 +3,7 @@
     internal class Program
     {
         const string FILE_NAME = "out.txt";
-        const string DIRECTORY = "log";
+        const string DIRECTORY = "/log/";
         const int THREAD_COUNT = 10;
         const int LINES_PER_THREAD = 10;
 

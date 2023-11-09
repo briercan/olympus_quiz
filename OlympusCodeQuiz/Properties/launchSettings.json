@@ -6,8 +6,7 @@
     },
     "Docker": {
       "commandName": "Docker",
-      "commandLineArgs": "test.txt",
-      "DockerfileRunArguments": "-i -t"
+      "DockerfileRunArguments": "-i -v C:\\junk:/log"
     }
   }
 }
