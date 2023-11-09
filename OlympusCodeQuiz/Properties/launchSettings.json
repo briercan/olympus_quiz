@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "OlympusCodeQuiz": {
+      "commandName": "Project",
+      "commandLineArgs": "output.txt"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "commandLineArgs": "test.txt",
+      "DockerfileRunArguments": "-i -t"
+    }
+  }
+}
